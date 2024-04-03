@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Taruny999316
 - 👀 I’m interested in Data
-- 🌱 I’m currently learning Data Analyst
+- 🌱 I’m currently learning <Data Science>
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me taruny999316@gmail.com
 - 😄 Pronouns: ...
